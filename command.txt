@@ -8,3 +8,6 @@ git push
 git log -oneline
 git checkout -b dev 
 
+# Rename the local master branch to main
+git branch -m master main 
+
