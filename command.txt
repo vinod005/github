@@ -5,4 +5,6 @@ git init
 git commit
 git revert 
 git push 
+git log -oneline
+git checkout -b dev 
 
